@@ -1,6 +1,5 @@
 #pragma once
 #include <string>
-namespace Solas{
 	void setFilePath(const std::string& pathname);
 	std::string getFilePath();
 
